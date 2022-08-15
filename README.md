@@ -12,4 +12,4 @@ built with SpringBoot on the backend and Vue2 on the frontend.
 ## Guide
 1. remember to update the information of database and file saving path in the 'yml' file  
 2. file 'demo.sql' is some data for test
-### Welcome for discuss and suggestion !
+### Discussions and suggestions are welcome !
